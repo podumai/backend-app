@@ -1,2 +1,2 @@
 # backend-app
-Simple authorization and task program in Go
+Simple authorization and task program in CXX
